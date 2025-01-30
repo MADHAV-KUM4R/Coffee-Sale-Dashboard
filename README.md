@@ -3,7 +3,11 @@
 This repository contains an **interactive Coffee Sales Dashboard** built in **Excel**, designed to analyze coffee sales data across different countries, roast types, and time periods.  
 
 ## Dataset used
-- <a href="https://github.com/MADHAV-KUM4R/Coffee-Sale-Dashboard/blob/main/coffeeOrdersData.xlsx">Dataset</a>
+- <a href="https://github.com/MADHAV-KUM4R/Coffee-Sale-Dashboard/blob/main/coffeeOrders_Dashboard.xlsx">Dataset</a>
+
+## Complete project
+
+- <a href="https://github.com/MADHAV-KUM4R/Coffee-Sale-Dashboard/blob/main/coffeeOrdersData.xlsx">Project</a>
 
 ## Features:
 - **Total Sales Over Time**: Visual representation of monthly sales trends for different coffee types (Arabica, Excelsa, Liberica, Robusta).  
@@ -26,6 +30,4 @@ Feel free to contribute or suggest improvements! If you find any issues, open a 
 ## 📜 License:
 This project is open-source and available.  
 
-## Complete project
-- <a href="https://github.com/MADHAV-KUM4R/Coffee-Sale-Dashboard/blob/main/coffeeOrders_Dashboard.xlsx">Project</a>
 **Enjoy analyzing your coffee sales!**
